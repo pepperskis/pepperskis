@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pepperskis
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTMl and CSS
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me thorley.preston@gmail.com
 
